@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+   
+    
+     
+    
+   
+   
+  
+ 
+  
+   STORE   
+  
+   &nbsp;
+   Community  
+  
+   NEWS  
+  
+   FORUMS  
+  
+   ABOUT  
+  
+   SUPPORT  
+  
+   STATS  
+  
+  
+      
+
+    
+     
+     
+     
+      Install Steam     
+    
+               Login
+      &nbsp;|&nbsp;
+          language
+     
+            
+                      Българ�?ки (Bulgarian)
+                      �?eština (Czech)
+                      Dansk (Danish)
+                      Nederlands (Dutch)
+                              Suomi (Finnish)
+                      Français (French)
+                      Deutsch (German)
+                      magyar (Hungarian)
+                      Italiano (Italian)
+                      日本語 (Japanese)
+                      한국어 (Korean)
+                      Norsk (Norwegian)
+                      Polski (Polish)
+                      Português (Portuguese)
+                      Português-Brasil (Portuguese-Brazil)
+                      Română (Romanian)
+                      Ру�?�?кий (Russian)
+                      简体中文 (Simplified Chinese)
+                      Español (Spanish)
+                      Svenska (Swedish)
+                      �?體中文 (Traditional Chinese)
+                      ไทย (Thai)
+                      Türkçe (Turkish)
+              Help us translate Steam
+      
+     
+       
+  
+  
+    
+ 
+
+
+  
+  
+  
+  
+  
+  &nbsp;
+
+
+
+
+
+ 
+
+  
+
+   
+   
+    
+
+
+
+
+
+
+
+
+ Actions
+ 
+              
+     
+     Add to your friends list
+    
+                 
+   
+      View Screenshots (3)
+  
+     
+   
+   View Inventory
+  
+  
+ 
+
+
+
+
+   Gameplay Stats
+   
+    
+     Member since:
+     November 25, 2010    
+    
+
+    
+     Steam Rating:
+     9.6    
+    
+
+    
+     Playing time:
+     30.7 hrs past 2 weeks    
+
+
+    
+
+    
+    
+     
+      
+     
+     Warhammer® 40,000®: Dawn of War® II – Retribution™
+     11.3 hrs / 103.2 hrs
+     View stats    
+    
+    
+     
+      
+     
+     Dead Island
+     9.1 hrs / 33.5 hrs
+     View stats    
+    
+    
+     
+      
+     
+     Warhammer 40,000 Space Marine
+     7 hrs / 28.4 hrs
+     View stats    
+    
+    
+     
+      
+     
+     Warhammer® 40,000™: Dawn of War® II – Chaos Rising™
+     1.6 hrs / 12.8 hrs
+         
+    
+    
+     
+      
+     
+     Killing Floor
+     1.6 hrs / 16.8 hrs
+     View stats    
+    
+    
+     
+      
+     
+     Warhammer® 40,000™: Dawn of War® II
+     0.1 hrs / 0.1 hrs
+         
+    
+    View all 32 games
+    
+    
+     View wishlist           (7 games)         
+
+   
+   
+
+   Screenshots
+  
+      
+    
+    
+   
+   
+    Event.observe( document, 'dom:loaded', function() {
+     new Slideshow( {
+      elemContainer: 'profileScreenshotSlideshowCtn',
+      elemSlideContainer: 'profileScreenshotSlideshow',
+      rgImageURLs: {"screenshot_0":{"img":"http:\/\/cloud.steampowered.com\/ugc\/540643574106084895\/D2C5876DFF819B2D6F68560AAFFE19C26CC58485\/","url":"http:\/\/steamcommunity.com\/id\/someuser\/screenshot\/540643574106083585","width":230,"height":184},"screenshot_1":{"img":"http:\/\/cloud.steampowered.com\/ugc\/540643574038506053\/0DA7574BDA7370A3A4A9E97B4046CDAD4E3E9F77\/","url":"http:\/\/steamcommunity.com\/id\/someuser\/screenshot\/540643574038505011","width":230,"height":184},"screenshot_2":{"img":"http:\/\/cloud.steampowered.com\/ugc\/540643574034038352\/1A90EA29582ECABD55FC023073F33AE8FC4373E9\/","url":"http:\/\/steamcommunity.com\/id\/someuser\/screenshot\/540643574034037372","width":230,"height":184}}     } );
+    } );
+   
+
+
+   
+    View all 3 screenshots
+   
+  
+  
+ 
+   Friends
+   
+
+    
+     
+      
+     
+     667man
+         
+      Online           Friends since July 16, 2011    
+   
+    
+     
+      
+     
+     Fallen
+         
+      Online           Friends since April 29, 2011    
+   
+    
+     
+      
+     
+     TakedaIesyu
+         
+      Online           Friends since July 1, 2011    
+   
+    
+     
+      
+     
+     xSilentKamikaze
+         
+      Online           Friends since September 2, 2011    
+   
+    
+     
+      
+     
+     pagan_moon
+         
+      Last Online: 11 hrs, 5 mins ago           Friends since October 7, 2011    
+   
+    
+     
+      
+     
+     LugNutz
+         
+      Last Online: 21 hrs, 59 mins ago           Friends since July 12, 2011    
+   
+   View all 7 friends
+   
+   
+
+
+
+
+  
+
+
+  Steam Profile
+  
+      someuser        
+
+
+
+  Profile _
+
+  
+   
+    
+   
+   The War on Horror Has Begun!
+   Some User
+   Colorado, United States&nbsp; 
+   No information given.
+
+   My YouTube Channel 
+
+  
+      
+    
+    why hello there
+    
+   
+   
+  
+
+
+
+  
+
+  Comments _
+    You must be logged on to add comments.
+   
+   There are no comments on this account.
+
+
+  
+
+  
+           Recently Played _
+             
+      
+       
+      
+             
+        Warhammer® 40,000®: Dawn of War® II – Retribution™
+        11.3 hrs / 103.2 hrs
+       
+           
+          
+      
+       
+      
+             
+        Dead Island
+        9.1 hrs / 33.5 hrs
+       
+           
+          
+      
+       
+      
+             
+        Warhammer 40,000 Space Marine
+        7 hrs / 28.4 hrs
+       
+           
+     
+         See all recent playtime
+           
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+  &copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. Some geospatial data on this website is provided by geonames.org. 
+
+
+
+
+
+
+
