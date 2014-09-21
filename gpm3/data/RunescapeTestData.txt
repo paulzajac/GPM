@@ -1,0 +1,946 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$("#PlaynowShort").each(function(){this.href+="?j=1";})
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Play Now
+
+
+
+New Users
+Existing Users
+Java Options
+
+
+
+Account
+
+
+
+Upgrade Your Account
+Membership Cards
+Create New Account
+Refer A Friend
+Members Loyalty Programme
+Account Management
+
+
+
+Game Guide
+
+
+
+Manual
+QuestHelp
+Grand Exchange
+Rules
+Lores
+What is RuneScape?
+
+
+
+Community
+
+
+Forums
+Clans
+Hiscores
+Player Submissions
+Adventurer's Log
+Polls
+Downloads &amp; Wallpapers
+Media
+
+
+
+
+Help
+
+
+
+Customer Support
+Recover an Account
+Appeal Bans &amp; Mutes
+Submit a Bug Report
+Parents' Guide
+
+
+
+Log In
+
+
+
+
+
+
+RuneScape Hiscores
+
+
+
+
+
+
+
+Skills
+Activities
+Clans
+
+
+
+
+
+
+Compare with a player:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+someuser
+
+
+
+
+
+
+
+Skills
+
+
+Rank
+
+
+Level
+
+
+XP
+
+
+
+
+
+
+
+
+Overall
+
+
+
+189,214
+
+
+1,904
+
+
+86,220,271
+
+
+
+
+
+
+
+Attack
+
+
+
+516,201
+
+
+82
+
+
+2,438,139
+
+
+
+
+
+
+
+Defence
+
+
+
+322,602
+
+
+85
+
+
+3,328,190
+
+
+
+
+
+
+
+Strength
+
+
+
+822,096
+
+
+81
+
+
+2,375,792
+
+
+
+
+
+
+
+Constitution
+
+
+
+620,863
+
+
+84
+
+
+2,979,124
+
+
+
+
+
+
+
+Ranged
+
+
+
+839,107
+
+
+73
+
+
+1,079,261
+
+
+
+
+
+
+
+Prayer
+
+
+
+304,028
+
+
+70
+
+
+762,348
+
+
+
+
+
+
+
+Magic
+
+
+
+808,440
+
+
+75
+
+
+1,234,873
+
+
+
+
+
+
+
+Cooking
+
+
+
+36,645
+
+
+99
+
+
+14,346,680
+
+
+
+
+
+
+
+Woodcutting
+
+
+
+61,892
+
+
+99
+
+
+13,963,263
+
+
+
+
+
+
+
+Fletching
+
+
+
+615,315
+
+
+76
+
+
+1,432,837
+
+
+
+
+
+
+
+Fishing
+
+
+
+39,636
+
+
+99
+
+
+13,960,294
+
+
+
+
+
+
+
+Firemaking
+
+
+
+64,387
+
+
+99
+
+
+13,055,597
+
+
+
+
+
+
+
+Crafting
+
+
+
+278,927
+
+
+70
+
+
+781,114
+
+
+
+
+
+
+
+Smithing
+
+
+
+201,235
+
+
+73
+
+
+1,066,039
+
+
+
+
+
+
+
+Mining
+
+
+
+38,976
+
+
+94
+
+
+8,408,009
+
+
+
+
+
+
+
+Herblore
+
+
+
+277,715
+
+
+63
+
+
+392,178
+
+
+
+
+
+
+
+Agility
+
+
+
+443,091
+
+
+60
+
+
+287,004
+
+
+
+
+
+
+
+Thieving
+
+
+
+393,723
+
+
+64
+
+
+408,095
+
+
+
+
+
+
+
+Slayer
+
+
+
+235,534
+
+
+74
+
+
+1,101,567
+
+
+
+
+
+
+
+Farming
+
+
+
+160,135
+
+
+70
+
+
+774,750
+
+
+
+
+
+
+
+Runecrafting
+
+
+
+267,378
+
+
+60
+
+
+292,661
+
+
+
+
+
+
+
+Hunter
+
+
+
+591,263
+
+
+58
+
+
+241,944
+
+
+
+
+
+
+
+Construction
+
+
+
+306,794
+
+
+61
+
+
+323,374
+
+
+
+
+
+
+
+Summoning
+
+
+
+250,448
+
+
+68
+
+
+606,214
+
+
+
+
+
+
+
+Dungeoneering
+
+
+
+195,035
+
+
+67
+
+
+580,924
+
+
+
+
+
+
+Activities
+
+
+Rank
+
+
+Score
+
+
+
+
+
+
+
+
+Duel Tournament
+
+
+Not Ranked
+
+
+
+
+
+
+Bounty Hunters
+
+
+Not Ranked
+
+
+
+
+
+
+Bounty Hunter Rogues
+
+
+Not Ranked
+
+
+
+
+
+
+Fist of Guthix
+
+
+Not Ranked
+
+
+
+
+
+
+Mobilising Armies
+
+
+Not Ranked
+
+
+
+
+
+
+B.A Attackers
+
+
+Not Ranked
+
+
+
+
+
+
+B.A Defenders
+
+
+Not Ranked
+
+
+
+
+
+
+B.A Collectors
+
+
+Not Ranked
+
+
+
+
+
+
+B.A Healers
+
+
+Not Ranked
+
+
+
+
+
+
+Castle Wars Games
+
+
+Not Ranked
+
+
+
+
+
+
+Conquest
+
+
+Not Ranked
+
+
+
+
+
+
+
+
+
+About Us |
+Privacy Policy |
+Terms & Conditions |
+Customer Support
+
+^ top of page ^
+
+
+
+
+
+Explore RuneScape.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's New?
+Recent News,
+Game News,
+Developer Blogs,
+Behind the Scenes,
+RSS Feed
+
+
+Clans & Community
+Clans,
+Clan Hiscores,
+Clan Info,
+Hiscores,
+Fansites,
+Adventurer's Log
+Players' Gallery,
+Postbag from the Hedge
+
+
+Game Help
+Game Manual,
+QuestHelp,
+Grand Exchange,
+Area Guides,
+Skill Guides,
+Quest Guides,
+What is RuneScape?,
+Search Game Manual
+
+
+Hiscores
+Skills,
+Dungeoneering,
+RuneCrafting,
+Slayer,
+Summoning,
+Prayer,
+Duel Tournament,
+Conquest,
+Castle Wars,
+Bounty Hunters,
+
+
+My Account
+Play RuneScape MMO,
+RuneScape Game Bar,
+Create Account,
+Upgrading My Account,
+Account Management
+
+
+Help
+Customer support,
+Recover an Account,
+Appeal Centre,
+Locked Accounts,
+Bug Reports,
+Parents’ Guide,
+Java Options,
+Game Help
+
+
+Forums
+General,
+Recent Updates,
+Future Updates,
+Clan Discussion,
+Events,
+Distractions and Diversions,
+Account Help,
+Skills,
+Quests
+
+
+More...
+Wallpapers,
+Lores and Histories,
+Downloads,
+Jagex Store
+
+
+
+This website and its contents are copyright © 1999 - 2011 Jagex Ltd
+Use of this website is subject to our Terms &amp; Conditions and Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+   document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  
+ 
+
+
+  try {
+  var _pageTracker=_gat._getTracker("UA-2058817-15");
+  _pageTracker._setDomainName(".runescape.com");
+  
+  
+  _pageTracker._trackPageview();
+  }catch(x){}
+ 
+
+
+  try {
+  var pageTracker=_gat._getTracker("UA-2058817-2");
+  pageTracker._setDomainName(".runescape.com");
+  
+  
+  pageTracker._trackPageview();
+  }catch(x){}
+ 
+
+
