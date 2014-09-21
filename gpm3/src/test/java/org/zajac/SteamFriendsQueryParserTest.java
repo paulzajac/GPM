@@ -1,14 +1,9 @@
 package org.zajac;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.List;
 
-import junit.framework.Assert;
-
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -25,46 +20,13 @@ public class SteamFriendsQueryParserTest
 	{
 	}
 	
-	public static String readFile(String filename) 
-	{
-		InputStream is = ClassLoader.getSystemResourceAsStream(filename);
-		InputStreamReader isReader = new InputStreamReader(is);
-		BufferedReader reader = new BufferedReader(isReader);
-		StringBuffer bodyText = new StringBuffer();
-		String line = null;
-		try 
-		{
-			try 
-			{
-				while ((line = reader.readLine()) != null) 
-				{
-					bodyText.append(line);
-					bodyText.append("\n");
-				}
-			} 
-			finally 
-			{
-				reader.close();
-			}
-		} 
-		catch (IOException e) 
-		{
-			throw new RuntimeException(e);
-		}
-		return bodyText.toString();
-	}
-
 	@Test
-	public void testParseBodyTextXian() 
+	public void testParseBodyText() 
 	{
-		if (1==1)
-		{
-			return; // TODO Fixme
-		}
-		String bodyText = readFile("ChristianSteamData.txt");
+		String bodyText = RunescapeQueryParserTest.readFile("SteamTestData.txt");
 		SteamFriendsQueryParser parser = new SteamFriendsQueryParser();
 		List<List<String>> stats = parser
-				.parseBodyText("cnquistador", bodyText);
+				.parseBodyText("someuser", bodyText);
 		Assert.assertNotNull(stats);
 		Assert.assertEquals(4, stats.size());
 		List<String> stats1 = stats.get(0);
@@ -84,16 +46,12 @@ public class SteamFriendsQueryParserTest
 	}
 	
 	@Test
-	public void testParseBodyTextSeb() 
+	public void testParseBodyTextFriends() 
 	{
-		if (1==1)
-		{
-			return;// TODO Fixme
-		}
-		String bodyText = readFile("SebastianSteamData.txt");
+		String bodyText = RunescapeQueryParserTest.readFile("SteamTestData2.txt");
 		SteamFriendsQueryParser parser = new SteamFriendsQueryParser();
 		List<List<String>> stats = parser
-				.parseBodyText("TakedaIesyu", bodyText);
+				.parseBodyText("someuser", bodyText);
 		Assert.assertNotNull(stats);
 		Assert.assertEquals(4, stats.size());
 		List<String> stats1 = stats.get(0);
@@ -106,7 +64,7 @@ public class SteamFriendsQueryParserTest
 		Assert.assertEquals(0, stats3.size());
 		Assert.assertEquals(0, stats4.size());
 		
-		Assert.assertEquals("cnquistador", stats1.get(0));
+		Assert.assertEquals("someOtherUser", stats1.get(0));
 		Assert.assertEquals("Online", stats2.get(0));
 	}
 
