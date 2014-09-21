@@ -6,8 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.List;
 
-import junit.framework.Assert;
-
+import org.junit.Assert;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -27,8 +26,7 @@ public class RunescapeQueryParserTest
 	
 	public static String readFile(String filename) 
 	{
-		String fullName = "/data/"+filename;
-		InputStream is = ClassLoader.getSystemResourceAsStream(fullName);
+		InputStream is = ClassLoader.getSystemResourceAsStream(filename);
 		InputStreamReader isReader = new InputStreamReader(is);
 		BufferedReader reader = new BufferedReader(isReader);
 		StringBuffer bodyText = new StringBuffer();
@@ -58,14 +56,10 @@ public class RunescapeQueryParserTest
 	@Test
 	public void testParseBodyText() 
 	{
-		if (1==1)
-		{
-			return; // TODO - Paul fix me
-		}
 		String bodyText = readFile("RunescapeTestData.txt");
 		RunescapeQueryParser parser = new RunescapeQueryParser();
 		List<List<String>> stats = parser
-				.parseBodyText("redrocksmama", bodyText);
+				.parseBodyText("someuser", bodyText);
 		Assert.assertNotNull(stats);
 		Assert.assertEquals(4, stats.size());
 		List<String> stats1 = stats.get(0);
