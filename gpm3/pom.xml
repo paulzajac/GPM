@@ -32,12 +32,6 @@
 	<version>2.3.0</version>
 </dependency>
 
-<dependency>
-	<groupId>net.sf.kxml</groupId>
-	<artifactId>kxml2-min</artifactId>
-	<version>2.3.0</version>
-</dependency>
-
   </dependencies>
   <dependencyManagement>
   	<dependencies>
@@ -47,5 +41,56 @@
   			<version>3.8.1</version>
   		</dependency>
   	</dependencies>
-  </dependencyManagement>
+  </dependencyManagement> 
+  
+  <build>
+    <plugins>
+    <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>2.5</version>
+        <executions>
+            <execution>
+                <id>copy-builders</id>
+                <!-- here the phase you need -->
+                <phase>pre-integration-test</phase>
+                <goals>
+                    <goal>copy-resources</goal>
+                </goals>
+                <configuration>
+                    <outputDirectory>${project.basedir}/target/</outputDirectory>
+                    <resources>
+                        <resource>
+                            <directory>src/main/resources</directory>
+                        </resource>
+                    </resources>
+                </configuration>
+            </execution>
+        </executions>
+    </plugin>
+    
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-shade-plugin</artifactId>
+        <version>2.3</version>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>shade</goal>
+            </goals>
+            <configuration>
+              <transformers>
+                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                  <manifestEntries>
+                    <Main-Class>org.zajac.GamePlayMonitor</Main-Class>
+                    <Build-Number>123</Build-Number>
+                  </manifestEntries>
+                </transformer>
+              </transformers>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>  
+  </build> 
 </project>
